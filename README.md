@@ -50,7 +50,7 @@ pip install customtkinter pillow requests pywin32
 
 For a detailed tutorial on how to use these scripts, watch the video below:
 
-[![Video Tutorial](https://drive.google.com/file/d/14I2raZphxH6ge36CaAzoK0Uvm8bUgKzY/view?usp=sharing)
+[Video Tutorial](https://drive.google.com/file/d/14I2raZphxH6ge36CaAzoK0Uvm8bUgKzY/view?usp=sharing)
 
 ## License
 
